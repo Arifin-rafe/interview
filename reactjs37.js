@@ -25,8 +25,8 @@
 // console.log(abc)//abc after deep copy
 // console.log(xyz)
 
-// console.log(sum(100,400))//function hoisting
 
+// console.log((100,400))//function hoisting happesn here
 // function sum(a,b){
 //     return a+b
 // }
