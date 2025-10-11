@@ -7,7 +7,6 @@
 
 
 // const arr = [100,'e','rafe',3,'c','shupty']
-
 // const num =[]
 // const str =[]
 // const ch =[]
