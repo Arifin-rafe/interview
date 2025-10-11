@@ -1,5 +1,4 @@
 // arr = [2,200,3,300]
-
 // const newSortedarr = arr.sort((a,b) => a-b)
 // console.log(newSortedarr)
 
