@@ -40,18 +40,17 @@
 // const str = "Hello am rafe";
 // const words = str.split(" "); // Split into ["i", "am", "rafe"]
 // let minWord = words[0];
-
 // for (let word of words) {
 //   if (word.length < minWord.length) {
 //     minWord = word;
 //   }
 // }
-
 // console.log(minWord); // "am"
+
 
 // const arr = [1, 2, 3, 3, 4, 5, 5];
 // const duplicates = arr.filter((item, index) => arr.indexOf(item) !== index);
-// console.log([...new Set(duplicates)]); // [3, 5]
+// console.log([...new Set(duplicates)]); // [3, 5] // find the duplicate values
 
 // const a1=[1,2,3,4,5]
 // const a2=[3,4,5,6,7,8]
@@ -72,6 +71,6 @@
 // Polyfills let developers use modern JS features safely, 
 // even in browsers that don’t support them yet — they “fill in” missing functionality.
 
-//Difference between name export vs default export uin react?
+//Difference between name export vs default export in react?
 // Named exports let you export multiple things by name,
 // while default export lets you export one main thing per file.
