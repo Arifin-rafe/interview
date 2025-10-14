@@ -25,4 +25,4 @@
 
 //what is normal vs dynamic routing ?
 // Static routing → fixed paths, known ahead of time.
-// 🔄 Dynamic routing → flexible paths that change based on parameters or data.
+// Dynamic routing → flexible paths that change based on parameters or data.
