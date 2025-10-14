@@ -1,16 +1,14 @@
 // What is Function Currying?
-
 // Currying is a JavaScript technique where a function that takes multiple arguments is transformed
 // into a sequence of functions, each taking a single argument.
 
 // What is Infinite Currying?
-
-// Infinite currying is a special form of currying where a function can keep returning another 
+// Infinite currying is a special form of currying where a function can keep returning another
 // function indefinitely — until you decide to stop it (usually by calling it without an argument or using a condition).
 // So instead of a fixed number of arguments, it accepts an unknown number of them over time.
 
 // what is promise?
-// A Promise is a JavaScript object used to handle asynchronous operations — 
+// A Promise is a JavaScript object used to handle asynchronous operations —
 // it either resolves (success) or rejects (failure) and helps avoid messy callback chains.
 
 // What is Event Bubbling?
@@ -30,7 +28,6 @@
 //     }
 // }
 // console.log(rcount,icount)
-
 
 // What is Temporal Dead Zone?
 // TDZ is the period between the start of a block and the point where a variable is declared using let or const.
