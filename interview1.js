@@ -39,6 +39,5 @@
 //     console.log("hi")
 //     return 4*4
 // }
-
 // let a =(sum(),square())
-// console.log(a) // it will return the last return value, so 16 because of comma operator
+// console.log(a) // it will hello and hi and return the last return value, so 16 because of comma operator

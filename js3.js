@@ -34,6 +34,7 @@
 // str ='my name is rafe ra'
 // const strin = str.indexOf('ra')
 // console.log(strin)
+
 // console.log(typeof NaN); // number
 // console.log(typeof null); // object
 

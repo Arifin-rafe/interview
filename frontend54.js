@@ -37,10 +37,10 @@
 
 // console.log(checkAdult(obj))
 
-// function abc(a,...b){
-//     console.log(b,typeof(b))
-// }
-// abc(1,2,3,4,5)
+function abc(a,...b){
+    console.log(b,typeof(b))
+}
+abc(1,2,3,4,5)
 
 // const k=[]
 // console.log(typeof(k))
