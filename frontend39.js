@@ -64,5 +64,8 @@
 // The framework calls your code, not the other way around. This is often called “Inversion of Control”.
 
 //What methods can be used to optimize react code? 
-// useMemo, useCallback ,Proper key in lists,Minimize parent state Reduce re-renders of children,
+// useMemo-memorise calculation of value, 
+// useCallback-memorise function ,
+// Proper key in lists,
+// Minimize parent state Reduce re-renders of children,
 // use react lazy loading 
