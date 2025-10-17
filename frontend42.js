@@ -30,7 +30,8 @@
 // console.log(rcount,icount)
 
 // What is Temporal Dead Zone?
-// TDZ is the period between the start of a block and the point where a variable is declared using let or const.
+// TDZ is the period between the start of a block and the point
+// where a variable is declared using let or const.
 // During this period, accessing the variable will throw a ReferenceError.
 // Only applies to let and const, not var.
 
