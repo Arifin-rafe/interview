@@ -21,3 +21,25 @@
 //What is function expression?
 // A function expression in JavaScript means defining a function and assigning it to a variable 
 // instead of declaring it directly.
+
+//what is function curring?
+//Function currying is a JavaScript technique where you break down a function that takes
+//multiple arguments into a series of functions, each taking one argument at a time.
+
+// abc() //hi
+// var abc = function (){
+//     console.log("hello")}
+// abc() //hello
+// function abc(){
+//     console.log("HI")
+// }
+// abc()//hello
+
+// const str = "today my interview"
+// let newStr = "".trim()
+// const count = str.split(" ")
+// for (x of count){
+//     newStr += x[0].toUpperCase() + x.slice(1) + " "
+
+// }
+// console.log(newStr)
