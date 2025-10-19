@@ -2,7 +2,6 @@
 // const duplicates = str
 //   .split('')
 //   .find((char, index) => str.indexOf(char) !== index);
-
 // console.log([...new Set(duplicates)]);
 
 // const arr = ["a","b",18,"d",100,10];
@@ -28,7 +27,7 @@
 // 1. <b> - bold text
 // 2. <i> - italic text
 
-// what isthe tags to display a table?
+// what is the tags to display a table?
 // <table>, <tr>, <th>, <td>
 
 //positioning in css
