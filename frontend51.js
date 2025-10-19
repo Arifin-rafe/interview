@@ -37,3 +37,41 @@
 // let a = [3,4,5,6,7]
 // const mew = a.filter((x)=>x%2==0)
 // console.log(mew)
+
+// const arr1 =[100,200,300]
+// const arr2 = [300,400,500,600]
+
+// function common(arr1,arr2){
+//     return arr1.filter((x)=>arr2.includes(x))
+// }
+// console.log(common(arr1,arr2))
+
+// console.log("2"-"2")
+// console.log(2 -"2")
+// console.log("2"-2)
+
+// const str = "RafeIsABoy";
+// function sep(str) {
+//   let arr = "";
+//   for (let x of str) {
+//     if (x === x.toUpperCase() && x !== x.toLowerCase()) {
+//       arr += " " + x;
+//     } else {
+//       arr += x;
+//     }
+//   }
+//   return arr.trim(); // removes leading space
+// }
+// console.log(sep(str)); // Output: "Rafe Is A Boy"
+
+//Figure vs img tag in HTML?
+// Figure tag is used to display an image with a caption, 
+// while the img tag is used to display an image without a caption.
+
+//Flex vs Grid?
+//Flexbox is one dimensional row or column, 
+//while Grid is two-dimensional both row and column.
+
+//Positioning properties in CSS?
+// Static, Relative, Absolute, Fixed
+
