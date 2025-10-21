@@ -1,6 +1,6 @@
-// What is Function Currying?
-// Currying is a JavaScript technique where a function that takes multiple arguments is transformed
-// into a sequence of functions, each taking a single argument.
+//What is function curring?
+// Currying means converting a function that takes multiple arguments into a sequence of functions, 
+// each taking one argument at a time
 
 // What is Infinite Currying?
 // Infinite currying is a special form of currying where a function can keep returning another
