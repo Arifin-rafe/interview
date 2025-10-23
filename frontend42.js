@@ -9,7 +9,7 @@
 
 // what is promise?
 // A Promise is a JavaScript object used to handle asynchronous operations —
-// it either resolves (success) or rejects (failure) and helps avoid messy callback chains.
+// it either resolves (success),pending or rejects (failure) and helps avoid messy callback chains.
 
 // What is Event Bubbling?
 // Event bubbling starts from the innermost element (the target) and bubbles upwards to its parent elements.
