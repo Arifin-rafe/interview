@@ -23,8 +23,8 @@
 // console.log(typeof(text)); //string
 // console.log(text); //Sat Jun 08 2024 12:34:56 GMT+0000 (Coordinated Universal Time)
 
-// console.log([]==[])
-// console.log([]===[])
+// console.log([]==[])//false
+// console.log([]===[])//false
 
 // let abc= 2
 // let a =!--abc
