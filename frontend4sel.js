@@ -21,3 +21,16 @@
 // Use custome logging utility: Create a custom logging utility that wraps around console.log
 // structured logging
 // use debug library
+
+//What is heigher order component in react?
+// A Higher-Order Component (HOC) in React is a function that takes a component
+// and returns a new component with enhanced functionality.
+// It is a pattern for reusing component logic without repeating code.
+// HOCs do not modify the original component; they create a wrapper component.
+// Common use cases for HOCs include code reuse, state abstraction, and props manipulation.
+// Example of a simple HOC that adds a loading spinner to a component:
+
+// what is reat?
+// React is a JavaScript library for building user interfaces.
+// It is maintained by Facebook and a community of individual developers and companies.
+// React is used to build single-page applications and mobile apps.

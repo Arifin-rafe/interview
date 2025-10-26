@@ -30,7 +30,7 @@
 // console.log(abc(myName));
 
 // What is Closure?
-// A closure is when an inner function remembers variables from its outer function’s scope, 
+// A closure is when an inner function remembers variables from its outer function’s scope,
 // even after the outer function has finished running.
 // Common Uses:
 // Data privacy (like private variables)
@@ -39,7 +39,7 @@
 // Event handlers that remember data
 
 //What are caches?
-// Caches are used to store data that is frequently accessed. 
+// Caches are used to store data that is frequently accessed.
 // They are used to reduce the number of requests to the server and improve performance.
 // Browser Cache → Stores website files locally for faster reloading.
 // Server Cache → Keeps frequently used data on the server to reduce database requests.
@@ -60,12 +60,13 @@
 // A library is a collection of pre-written code (functions, classes, utilities) that
 // you call when you need it. You are in control; you decide when and where to use it.
 // Framework:
-// A framework is a set of pre-defined rules and structure that dictates the flow of your application. 
+// A framework is a set of pre-defined rules and structure that dictates the flow of your application.
 // The framework calls your code, not the other way around. This is often called “Inversion of Control”.
 
-//What methods can be used to optimize react code? 
-// useMemo-memorise calculation of value, 
+//What methods can be used to optimize react code for better performance?
+// useMemo-memorise calculation of value,
 // useCallback-memorise function ,
 // Proper key in lists,
 // Minimize parent state Reduce re-renders of children,
-// use react lazy loading 
+// use react lazy loading
+// use react virtualization for large lists

@@ -13,6 +13,10 @@
 //Babel is a React tool that translates modern JavaScript
 // syntax and JSX into browser-compatible code, so your React app runs smoothly everywhere.
 
+//useMemo vs useCallback?
+// useMemo memoizes the result of a function (a value) to avoid expensive recalculations. example: computed values
+// useCallback memoizes the function itself to prevent unnecessary re-creations on re-renders. example: event handlers
+
 // ES6 features?
 //ES6 introduced modern JavaScript features
 //like let/const, arrow functions, classes, destructuring, promises, modules, and more 
