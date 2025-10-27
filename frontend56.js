@@ -45,7 +45,7 @@
 // obj1[obj3] = {
 //     name:"mama"
 // }
-// console.log(obj1[obj2]) // alway replace the value with the last one
+// console.log(obj1[obj2]) // always replace the value with the last one
 
 // console.log([]==[])// because they are different reference
 // console.log([]===[])// because they are different reference

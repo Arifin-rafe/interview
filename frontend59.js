@@ -23,6 +23,6 @@
 // It goes through the array one by one and keeps updating the result.
 // In the end, it gives you that final combined value.
 
-//what is normal vs dynamic routing ?
+// what is normal vs dynamic routing ?
 // Static routing → fixed paths, known ahead of time.
 // Dynamic routing → flexible paths that change based on parameters or data.

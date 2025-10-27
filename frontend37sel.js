@@ -16,9 +16,9 @@
 // It allows you to define multiple stages (keyframes) of the animation.
 
 //virtual dom vs real dom?
-//The virtual DOM (Virtual DOM) is a virtual representation of the actual
+// The virtual DOM (Virtual DOM) is a virtual representation of the actual
 // DOM (Document Object Model) in a JavaScript environment.
-//It is a light-weight representation of the DOM that is used to optimize 
+// It is a light-weight representation of the DOM that is used to optimize 
 // performance and prevent unnecessary updates to the actual DOM.
 
 //Controlled vs Uncontrolled components?
