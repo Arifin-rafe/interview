@@ -29,3 +29,7 @@
 // (1) One central store,
 // (2) State can’t be changed directly,
 // (3) State changes happen through pure reducers.
+
+//how to send data from child to parent component?
+// To send data from a child component to a parent component in React, you can use callback functions.
+// The parent component can pass a function as a prop to the child component.

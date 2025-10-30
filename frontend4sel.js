@@ -1,5 +1,4 @@
 // What is the difference between a Class component vs Functional component and which one to use and perform better?
-// Class components and functional components are two different ways to define components in React.
 // Class components are ES6 classes that extend from React.Component and have a render method.
 // They can hold state and lifecycle methods. Functional components, on the other hand,
 // are plain JavaScript functions that return JSX.
@@ -22,7 +21,7 @@
 // structured logging
 // use debug library
 
-//What is heigher order component in react?
+// What is heigher order component in react?
 // A Higher-Order Component (HOC) in React is a function that takes a component
 // and returns a new component with enhanced functionality.
 // It is a pattern for reusing component logic without repeating code.
@@ -30,7 +29,7 @@
 // Common use cases for HOCs include code reuse, state abstraction, and props manipulation.
 // Example of a simple HOC that adds a loading spinner to a component:
 
-// what is reat?
+// What is reat?
 // React is a JavaScript library for building user interfaces.
 // It is maintained by Facebook and a community of individual developers and companies.
 // React is used to build single-page applications and mobile apps.
