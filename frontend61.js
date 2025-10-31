@@ -18,18 +18,18 @@
 // }
 // outerFunction(); // Output: I am from outer function
 
-const abc ={
-    name:"rafe",
-    age:20,
-    address:"dhaka"
-}
+// const abc ={
+//     name:"rafe",
+//     age:20,
+//     address:"dhaka"
+// }
 
-let xyz = {
-    ...abc,
-    name:"sabbir"
-}
-const {name, ...pqr} = abc; //rest operator
-console.log(pqr,xyz); //
+// let xyz = {
+//     ...abc,
+//     name:"sabbir"
+// }
+// const {name, ...pqr} = abc; //rest operator
+// console.log(pqr,xyz); // output: { age: 20, address: 'dhaka' } { name: 'sabbir', age: 20, address: 'dhaka' }
 
 // What is function curring?
 // Currying means converting a function that takes multiple arguments into a sequence of functions, 
