@@ -30,14 +30,14 @@
 // let arr = [1, 2, 3, 4, 5];
 // const newArr = arr.filter((num) => num > 3);
 // const newArr2 = arr.map((num) => num > 3);
-// const newArr3 = arr.find((num) => num > 3);
+// const newArr3 = arr.find((num) => num > 3); 
 // console.log(newArr); // [4,5]
 // console.log(newArr2); // [ false, false, false, true, true ]
 // console.log(newArr3); // 4
 
 // JSON.parse() is used to convert a JSON string into a JavaScript object.
 
-// const str = "Hello am rafe";
+// const str = "i am rafe";
 // const words = str.split(" "); // Split into ["i", "am", "rafe"]
 // let minWord = words[0];
 // for (let word of words) {

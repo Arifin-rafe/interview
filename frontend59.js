@@ -9,7 +9,7 @@
 // {
 //     let b = 10000
 // }
-// console.log(b)
+// console.log(b) //9000
 
 
 // slice vs splice?

@@ -18,7 +18,6 @@
 // c()
 
 // let arr = ['rafe','abc']
-
 // let ans = arr.includes('abc',-2)
 // console.log(ans)
 

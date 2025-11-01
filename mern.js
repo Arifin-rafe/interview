@@ -12,7 +12,7 @@
 // commonly used to copy arrays, merge arrays, or pass elements of
 
 // let arr = [1, 2, 3, 4, 5];
-// let arr2 = arr.filter((x) => (x > 5));
+// let arr2 = arr.filter((x) => (x = 5));
 // console.log(arr2); 
 
 // useMemo vs useCallback?

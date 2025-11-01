@@ -21,6 +21,7 @@
 // str2= 'rafe'
 // str3= str1 && str2
 // console.log(str3) // if both are true it will return the last value
+// console.log(str1 || str2) // if one is true it will return the first value
 
 
 // [a]=[1,2,3]

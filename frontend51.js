@@ -37,6 +37,7 @@
 // let a = [3,4,5,6,7]
 // const mew = a.filter((x)=>x%2==0)
 // console.log(mew)
+//output: [4,6]
 
 // const arr1 =[100,200,300]
 // const arr2 = [300,400,500,600]
@@ -45,6 +46,7 @@
 //     return arr1.filter((x)=>arr2.includes(x))
 // }
 // console.log(common(arr1,arr2))
+// output: [300]
 
 // console.log("2"-"2")
 // console.log(2 -"2")
