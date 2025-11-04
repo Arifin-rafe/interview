@@ -20,7 +20,7 @@
 // even after the outer function has finished running.
 // Closures are often used to create private variables or functions.
 
-// Describe pply and bind method in js?
+// Describe apply and bind method in js?
 // Call, apply, and bind are methods used to set the 'this' context in JavaScript functions.
 // Call invokes the function immediately with a specified 'this' value and arguments provided individually.
 // Apply is similar to call, but it takes arguments as an array.
