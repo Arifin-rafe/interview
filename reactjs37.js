@@ -26,7 +26,7 @@
 // console.log(xyz)
 
 
-// console.log((100,400))//function hoisting happesn here
+// console.log((100,400))//function hoisting happen here
 // function sum(a,b){
 //     return a+b
 // }
