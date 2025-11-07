@@ -18,8 +18,8 @@
 // let b = arr.reduce((acc,curr) => acc+curr) //
 // console.log(b)
 
-//what is accumulator?
-//The accumulator is a variable that holds the accumulated value during the reduction process. 
+// what is accumulator?
+// The accumulator is a variable that holds the accumulated value during the reduction process. 
 // It is used to store the intermediate result of the reduction operation.
 
 // const arr = [1,2,3]

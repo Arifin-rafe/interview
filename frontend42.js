@@ -29,11 +29,9 @@
 // }
 // console.log(rcount,icount)
 
-// What is Temporal Dead Zone?
-// TDZ is the period between the start of a block and the point
-// where a variable is declared using let or const.
+//TDR- The Temporal Dead Zone (TDZ) is the time between variable hoisting and initialization
+// where accessing the variable throws an error. WORKS ONLY FOR LET AND CONST.
 // During this period, accessing the variable will throw a ReferenceError.
-// Only applies to let and const, not var.
 
 // What are @keyframes?
 // @keyframes is used to create CSS animations by specifying how an element should change styles over time.

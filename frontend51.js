@@ -1,11 +1,12 @@
 // a = 400
-// console.log(a) //500
+// console.log(a) //400
 
 // console.log(b)
 // let b= 100 // reference error
 
 //TDR- The Temporal Dead Zone (TDZ) is the time between variable hoisting and initialization
-// where accessing the variable throws an error. WORKS ONLY FOR LET AND CONST
+// where accessing the variable throws an error. WORKS ONLY FOR LET AND CONST.
+// During this period, accessing the variable will throw a ReferenceError.
 
 // var a= 1000
 // {

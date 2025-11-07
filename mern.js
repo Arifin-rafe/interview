@@ -1,5 +1,5 @@
 // console.log("rafe"-100) // This will output NaN (Not a Number) because subtracting a
-// // number from a string that cannot be converted to a number results in NaN.
+// number from a string that cannot be converted to a number results in NaN.
 
 // what is rest operator in js?
 // The rest operator in JavaScript is represented by three dots (...) and is used to

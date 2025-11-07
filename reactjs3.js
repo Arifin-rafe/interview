@@ -9,8 +9,8 @@
 // 8.Reusable & Maintainable – Easier to scale apps.
 // 9.Strong Community Support – Many libraries and tools available.
 
-//what is babble js?
-//Babel is a React tool that translates modern JavaScript
+// what is babble js?
+// Babel is a React tool that translates modern JavaScript
 // syntax and JSX into browser-compatible code, so your React app runs smoothly everywhere.
 
 //useMemo vs useCallback?
