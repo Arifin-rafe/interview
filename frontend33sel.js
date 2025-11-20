@@ -40,9 +40,11 @@
 // are defined in the code
 
 //what is event loop?
-// The event loop is a mechanism in JavaScript that allows
-// asynchronous operations to be executed in a synchronous manner.
-// It ensures that code execution is not blocked by asynchronous tasks
+// The event loop allows JavaScript to handle asynchronous tasks.
+// Even though JavaScript runs on a single thread, the event loop 
+// lets long operations (like API calls or timers) run in the background, 
+// and when they finish, the event loop pushes their callbacks back into the call stack. 
+// This keeps the program fast and non-blocking.
 
 //difference between synchronous and asynchronous code?
 // Synchronous code is executed line by line, waiting for 

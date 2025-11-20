@@ -57,5 +57,5 @@
 // They do not have access to 'this.state' or 'this.setState()'.
 
 // Controlled vs Uncontrolled components?
-// Controlled components are those whose state is controlled by the React state or by the user input. //example form
+// Controlled components are those whose state is controlled by the React state. //example form
 // An uncontrolled component is one where the form data is handled by the DOM itself, not by React state.// useRef

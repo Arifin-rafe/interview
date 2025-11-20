@@ -30,3 +30,12 @@
 // function sum(a,b){
 //     return a+b
 // }
+
+//shallow copy vs deep copy?
+// | Feature                 | Shallow Copy          | Deep Copy                        |
+// | ----------------------- | --------------------- | -------------------------------- |
+// | Top-level values        | Copied                | Copied                           |
+// | Nested objects          | **Referenced**        | **Fully copied**                 |
+// | Memory usage            | Low                   | High                             |
+// | Safety for modification | Risky                 | Safe                             |
+// | Methods                 | Spread, Object.assign | structuredClone, JSON, cloneDeep |

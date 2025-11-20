@@ -18,10 +18,6 @@
 // what iss default position if position is not specified?
 // default position is static
 
-// explain call stack and event loop?
-// call stack is a stack of functions that are being executed
-// event loop is a loop that is used to process events
-
 // what is the difference between call stack and event loop?
 // call stack is a stack of functions that are being executed
 // event loop is a loop that is used to process events
