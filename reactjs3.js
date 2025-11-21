@@ -22,10 +22,6 @@
 //like let/const, arrow functions, classes, destructuring, promises, modules, and more 
 // — making JS cleaner, faster, and easier to write.
 
-//Controlled vs Uncontrolled components?
-//Controlled components are those whose state is controlled by the React state or by the user input. //example form
-//An uncontrolled component is one where the form data is handled by the DOM itself, not by React state.// useRef
-
 // What is react.strictmode?
 // React.StrictMode is a tool for highlighting potential problems in an application.
 // It activates additional checks and warnings for its descendants in development mode,

@@ -22,10 +22,6 @@
 // call stack is a stack of functions that are being executed
 // event loop is a loop that is used to process events
 
-// what is closure?
-// closure is a function that has access to variables from its outer function even after
-// the outer function has finished executing. USED TO CREATE PRIVATE VARIABLES
-
 // how to handle async and await error hadnling?
 // use try catch block
 

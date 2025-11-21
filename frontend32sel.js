@@ -20,15 +20,7 @@
 // Props are used to pass data from a parent component to a child component.
 // State is used to manage the internal state of a component.
 
-// life cycle method of functional component?
-// constructor
-// componentDidMount
-// componentDidUpdate
-// componentWillUnmount
-
 // es5 vs es6
 // es5: older version of javascript
 // es6: newer version of javascript with new features and syntax
 //like let/const, arrow functions, classes, destructuring, promises, modules, and more
-
-// difference between functional component and class component

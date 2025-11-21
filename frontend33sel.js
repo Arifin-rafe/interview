@@ -33,12 +33,6 @@
 //how to handle erroes in fetch?
 // try catch
 
-//what is hoisting in js?
-// Hoisting is a JavaScript feature that moves variable and
-// function declarations to the top of their containing scope.
-// It allows you to access variables and functions before they
-// are defined in the code
-
 //what is event loop?
 // The event loop allows JavaScript to handle asynchronous tasks.
 // Even though JavaScript runs on a single thread, the event loop 
@@ -52,7 +46,7 @@
 // Asynchronous code is executed concurrently, allowing multiple 
 // lines to run simultaneously.
 
-//why we use promise?
+// why we use promise?
 // Promise is a JavaScript object that represents the eventual completion
 // or failure of an asynchronous operation. It allows you to handle
 // and manage asynchronous
@@ -63,11 +57,3 @@
 // componentDidMount
 // componentDidUpdate
 // componentWillUnmount
-
-// What is heigher order component in react?
-// A Higher-Order Component (HOC) in React is a function that takes a component
-// and returns a new component with enhanced functionality.
-// It is a pattern for reusing component logic without repeating code.
-// HOCs do not modify the original component; they create a wrapper component.
-// Common use cases for HOCs include code reuse, state abstraction, and props manipulation.
-// Example of a simple HOC that adds a loading spinner to a component

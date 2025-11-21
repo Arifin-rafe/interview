@@ -29,11 +29,7 @@
 //   };
 // }
 // console.log(add(1)(2)(3)); // example of function curring
-
-//What is Closure?
-// A closure in JavaScript is a function that remembers its scope,
-// even when the function is executed outside of that scope. This means an inner function 
-// can access variables from its outer (enclosing) function, even after the outer function has completed its execution. 
+ 
 
 // let a = [3,4,5,6,7]
 // const mew = a.filter((x)=>x%2==0)

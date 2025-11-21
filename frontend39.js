@@ -7,7 +7,7 @@
 // What does “invoke a function” mean?
 // To invoke a function simply means to call it — that is, to execute the code inside the function.
 
-//optional chaining vs ternary operator vs template literal?
+// optional chaining vs ternary operator vs template literal?
 // In JavaScript, **optional chaining (`?.`)** is used to safely access nested object properties
 // without causing an error if a property is missing. The **ternary operator (`? :`)** is a shorthand
 // for conditional statements, letting you choose between two values in one line. The **template literal (`` ` ` ``)**

@@ -16,9 +16,13 @@
 // It allows you to access variables and functions before they are defined in the code.
 
 // What is Closure?
-// A closure is when an inner function remembers variables from its outer function’s scope,
-// even after the outer function has finished running.
-// Closures are often used to create private variables or functions.
+// closure is a function that has access to variables from its outer function even after
+// the outer function has finished executing. USED TO CREATE PRIVATE VARIABLES
+// Common Uses:
+// Data privacy (like private variables)
+// Counters
+// Function factories
+// Event handlers that remember data
 
 // Describe apply and bind method in js?
 // Call, apply, and bind are methods used to set the 'this' context in JavaScript functions.
@@ -55,7 +59,3 @@
 // Stateful components are React components that manage their own state using the 'this.state' object.
 // Stateless components are pure functions that return JSX without any internal state management.
 // They do not have access to 'this.state' or 'this.setState()'.
-
-// Controlled vs Uncontrolled components?
-// Controlled components are those whose state is controlled by the React state. //example form
-// An uncontrolled component is one where the form data is handled by the DOM itself, not by React state.// useRef

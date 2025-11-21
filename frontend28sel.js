@@ -49,8 +49,7 @@
 
 //what is private routing?
 //Private routing is a type of routing in React Router that allows you to define
-// specific routes that are only accessible 
-//to authenticated users.
+// specific routes that are only accessible to authenticated users.
 
 // let a = [1,2,3]
 // a[5] = 6
