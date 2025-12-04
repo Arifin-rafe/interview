@@ -14,8 +14,8 @@
 //     }
 // }
 // const c =obj.pqr
-// obj.pqr()
-// c()
+// obj.pqr() //rafe
+// c() //rafe
 
 // let arr = ['rafe','abc']
 // let ans = arr.includes('abc',-2)

@@ -19,7 +19,7 @@
 // 201: Created
 // 202: Accepted
 // 204: No Content
-// 300 : Multiple Choices
+// 300: Multiple Choices
 // 400: Bad Request
 // 401: Unauthorized
 // 403: Forbidden
