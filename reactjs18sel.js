@@ -14,7 +14,7 @@
 // A Promise is an object representing the eventual completion or failure of an asynchronous operation.
 // It allows you to attach callbacks for success (.then) and failure (.catch) of the async task.
 
-//state object vs peops object?
+//state object vs props object?
 // State is a built-in React object used to manage data that can change over time within a component.
 // Props (short for properties) are read-only attributes passed from a parent 
 // component to a child component to configure it.
