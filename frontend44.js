@@ -8,7 +8,7 @@
 // function pqr(a=0,b,c){}
 // console.log(abc.length) 3
 // console.log(xyz.length) 1
-// console.log(pqr.length) 0 //Function.length counts parameters only up to the first default value — 
+// console.log(pqr.length) 0 //Function.length counts parameters only up to the first default value —
 // any parameters after that are ignored in the count.
 
 // let abc = "rafe"
@@ -18,8 +18,8 @@
 // }
 // fn() // reference error
 
-//What is function expression?
-// A function expression in JavaScript means defining a function and assigning it to a variable 
+// What is function expression?
+// A function expression in JavaScript means defining a function and assigning it to a variable
 // instead of declaring it directly.
 
 // What is Function Currying?
@@ -45,7 +45,6 @@
 
 // The tilde (~) operator in JavaScript is called the bitwise NOT operator.
 // It works on the binary (bit) representation of a number.
-
 
 // ~ → Unary operator → flips all bits (like NOT).
 // ^ → Binary operator → compares two numbers bit by bit (XOR).

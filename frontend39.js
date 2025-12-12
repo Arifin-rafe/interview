@@ -30,14 +30,13 @@
 // console.log(abc(myName));
 
 // What is Closure?
-// A closure is when an inner function remembers variables from its outer function’s scope,
-// even after the outer function has finished running.
+// closure is a function that has access to variables from its outer function even after
+// the outer function has finished executing. USED TO CREATE PRIVATE VARIABLES
 // Common Uses:
 // Data privacy (like private variables)
 // Counters
 // Function factories
 // Event handlers that remember data
-
 //What are caches?
 // Caches are used to store data that is frequently accessed.
 // They are used to reduce the number of requests to the server and improve performance.
@@ -66,7 +65,7 @@
 //What methods can be used to optimize react code for better performance?
 // useMemo-memorise calculation of value,
 // useCallback-memorise function ,
-// Proper key in lists,
+// Proper key in lists, // to avoid unnecessary re-renders
 // Minimize parent state Reduce re-renders of children,
 // use react lazy loading
 // use react virtualization for large lists

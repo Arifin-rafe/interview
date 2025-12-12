@@ -14,10 +14,10 @@
 //   console.log(sum(1, 2, 3)); // Output: 6
 
 //what is ternary operator?
-//The ternary operator is a shorthand way of writing if-else statements. 
+//The ternary operator is a shorthand way of writing if-else statements.
 //It allows you to write a conditional expression that evaluates to either a true value or a false value.
 
-// var a 
+// var a
 // console.log(a) //undefined
 // a=3
 
@@ -39,7 +39,7 @@
 //let and const,spread operator,rest operator,template literals,arrow functions,promises,async await
 
 // what is api?
-// An API (Application Programming Interface) is a set of protocols, 
+// An API (Application Programming Interface) is a set of protocols,
 // routines, and tools for building software applications.
 // It allows different software components to communicate and interact with each other.
 
