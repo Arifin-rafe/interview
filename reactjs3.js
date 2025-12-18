@@ -26,3 +26,7 @@
 // React.StrictMode is a tool for highlighting potential problems in an application.
 // It activates additional checks and warnings for its descendants in development mode,
 // helping developers write safer and more robust React code.
+
+// What is state lifting in react js?
+// State lifting means moving state from a child component to a common parent component 
+// so that multiple components can share and stay in sync with the same data.

@@ -37,7 +37,9 @@
 // Counters
 // Function factories
 // Event handlers that remember data
-//What are caches?
+
+
+// What are caches?
 // Caches are used to store data that is frequently accessed.
 // They are used to reduce the number of requests to the server and improve performance.
 // Browser Cache → Stores website files locally for faster reloading.
