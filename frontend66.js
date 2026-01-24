@@ -24,4 +24,27 @@
 // }
 // console.log(sum(1, 2, 3, 4, 5)); // Output: 15
 
+// var x = 10;
+// {
+//     var x = 20;
+// }
+// let a = x;
+// {
+//     let a = 30;
+// }
+// console.log(a); //20
 
+// block element vs inline element in html?
+// Block elements take up the full width available and
+// start on a new line (e.g., <div>, <p>).
+// Inline elements take up only as much width as necessary and 
+// do not start on a new line (e.g., <span>, <a>).
+
+// em vs i tag in html?
+// The <em> tag is used to emphasize text, which can affect its meaning,
+// while the <i> tag is used for text that is set off from the normal text,
+// such as foreign words or technical terms, without implying emphasis.
+
+// class selector vs universal selector in css?
+// A class selector targets elements with a specific class attribute (e.g., .my-class),
+// while a universal selector targets all elements on the page (*).
